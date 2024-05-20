@@ -1,0 +1,1 @@
+import{A as o,j as r}from"./chunk-YOW73LMR.js";var c=(()=>{let t=class t{constructor(){this.prosesRegister=new r(!1),this.getProsesRegister=this.prosesRegister.asObservable()}updateProsesRegister(s){this.prosesRegister.next(s)}};t.\u0275fac=function(i){return new(i||t)},t.\u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"});let e=t;return e})();export{c as a};
