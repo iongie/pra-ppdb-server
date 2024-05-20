@@ -2,7 +2,7 @@ import { Controller, Get, Req } from '@nestjs/common';
 import { CekApiService } from './cek-api.service';
 import { Request } from 'express';
 
-@Controller('cek-api')
+@Controller('cek-ip')
 export class CekApiController {
     constructor(
         private cekApi: CekApiService
